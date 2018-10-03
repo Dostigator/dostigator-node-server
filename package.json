@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dostigator/dostigator-node-server/issues"
   },
-  "homepage": "https://github.com/Dostigator/dostigator-node-server#readme"
+  "homepage": "https://github.com/Dostigator/dostigator-node-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
