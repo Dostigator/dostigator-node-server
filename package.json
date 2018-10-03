@@ -1,0 +1,19 @@
+{
+  "name": "dostigator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dostigator/dostigator-node-server.git"
+  },
+  "author": "Ivan Malinovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dostigator/dostigator-node-server/issues"
+  },
+  "homepage": "https://github.com/Dostigator/dostigator-node-server#readme"
+}
